@@ -130,6 +130,7 @@ p {
   cursor: pointer;
   width: 19rem;
   text-decoration: none;
+  line-height: 150%;
 }
 .social__item:hover {
   background-color: var(--clr-green);
